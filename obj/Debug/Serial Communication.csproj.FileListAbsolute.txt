@@ -1,0 +1,6 @@
+c:\users\mr.big\documents\visual studio 2015\Projects\Serial Communication\Serial Communication\bin\Debug\Serial Communication.exe.config
+c:\users\mr.big\documents\visual studio 2015\Projects\Serial Communication\Serial Communication\bin\Debug\Serial Communication.exe
+c:\users\mr.big\documents\visual studio 2015\Projects\Serial Communication\Serial Communication\bin\Debug\Serial Communication.pdb
+c:\users\mr.big\documents\visual studio 2015\Projects\Serial Communication\Serial Communication\obj\Debug\Serial Communication.csprojResolveAssemblyReference.cache
+c:\users\mr.big\documents\visual studio 2015\Projects\Serial Communication\Serial Communication\obj\Debug\Serial Communication.exe
+c:\users\mr.big\documents\visual studio 2015\Projects\Serial Communication\Serial Communication\obj\Debug\Serial Communication.pdb
